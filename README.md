@@ -1,6 +1,6 @@
 # libs
 Contains external libraries used by ccmjs-based web components.
-## Licences
+## Licenses
 ### CodeMirrow 5
 [MIT Licence](https://opensource.org/licenses/MIT)
 ### lit-html
